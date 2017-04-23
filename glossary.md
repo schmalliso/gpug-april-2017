@@ -20,10 +20,10 @@ operations in MongoDB are atomic on the level of a single document.
 
 ## Glossary
 
-### Document
-
-A record in a MongoDB [collection](#collection) and the basic unit of data in MongoDB. Documents are analogous to JSON objects but exist in the database in a more type-rich format known as [BSON](#bson). etc.
-
 ### Collection
 
 A grouping of MongoDB [documents](#document). A collection is the equivalent of an RDBMS table. A collection exists within a single database. Collections do not enforce a schema. Documents within a collection can have different fields. etc…
+
+### Document
+
+A record in a MongoDB [collection](#collection) and the basic unit of data in MongoDB. Documents are analogous to JSON objects but exist in the database in a more type-rich format known as [BSON](#bson). etc.
