@@ -17,7 +17,7 @@ docs source as a [git submodule](https://git-scm.com/docs/git-submodule).
 - [Building for Prod](#build-wonderproxycom-for-production)
 - [Styleguide Dev](#developing-the-styleguide)
 
-## Initial Setup
+## Getting Started
 
 WonderProxy uses [Compass](http://compass-style.org/) to compile our
 CSS,
